@@ -20,5 +20,5 @@ I’m an aspiring **Cloud Engineer** with a passion for **DevOps**, **Cloud Secu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RefilweMohlala&layout=compact)
 
 ## 💬 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/RefilweMohlala)
+- [LinkedIn](https://www.linkedin.com/in/refilwe-mohlala)
 
