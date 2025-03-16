@@ -1,6 +1,6 @@
 # Hi, I'm Refilwe 👋
 
-I’m an aspiring **Cloud Engineer** with a passion for **DevOps**, **Cloud Security**, **AI**, and **Infrastructure as Code (IaC)**. I specialize in deploying scalable infrastructure using **Terraform**, **AWS**, **Docker**, and **Kubernetes**.
+I’m a **Cloud Engineer** with a passion for **DevOps**, **Cloud Security**, **AI**, and **Infrastructure as Code (IaC)**. I specialize in deploying scalable infrastructure using **Terraform**, **AWS**, **Docker**, and **Kubernetes**.
 
 ## 🔧 Technologies I Work With
 - **Cloud**: AWS, Azure
